@@ -12,6 +12,7 @@ ipykernel = "*"
 tensorflow = "*"
 sklearn = "*"
 black = "*"
+opencv-python = "*"
 
 [dev-packages]
 
