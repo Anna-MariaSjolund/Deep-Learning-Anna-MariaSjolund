@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Test data
-Data_test/
+# Folders for data
+Pictures_of_dogs_and_cats/
+
+# DS Store
+.DS_Store
