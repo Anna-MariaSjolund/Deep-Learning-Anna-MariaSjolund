@@ -130,6 +130,7 @@ dmypy.json
 
 # Folders for data
 Pictures_of_dogs_and_cats/
+original_data/
 
 # DS Store
 data/.DS_Store
