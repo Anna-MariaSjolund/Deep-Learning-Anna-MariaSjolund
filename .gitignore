@@ -133,6 +133,7 @@ Pictures_of_dogs_and_cats/
 original_data/
 experiment_small_data/
 experiment_tiny_data/
+pickled_files/
 
 # DS Store
 data/.DS_Store
