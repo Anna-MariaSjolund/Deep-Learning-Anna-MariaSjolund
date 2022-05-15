@@ -134,6 +134,7 @@ original_data/
 experiment_small_data/
 experiment_tiny_data/
 pickled_files/
+models/DogsVsCatsPredictorWithoutdAug.h5
 
 # DS Store
 data/.DS_Store
