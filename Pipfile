@@ -16,6 +16,9 @@ opencv-python = "*"
 tensorflow-datasets = "*"
 nltk = "*"
 pyjokes = "*"
+chardet = "*"
+spacy = "*"
+transformers = "*"
 
 [dev-packages]
 

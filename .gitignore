@@ -139,3 +139,8 @@ models/DogsVsCatsPredictorWithoutdAug.h5
 # DS Store
 data/.DS_Store
 .DS_Store
+
+# Data for group project
+group_project/Answers.csv
+group_project/Questions.csv
+group_project/Tags.csv
